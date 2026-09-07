@@ -1,0 +1,1 @@
+const quadrato = (x) => x * x;
